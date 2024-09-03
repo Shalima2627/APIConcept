@@ -1,0 +1,20 @@
+API - Application Programming Interface, 
+      We use API for to communicate from multiple sources or share the source from multiple sources.
+
+* The API only provides data we want render in returned as json format(dict, key:value)
+API to start in Django we should install rest_framework and add to installed apps in settings.py
+
+
+We use django models to store the database for datas and the datas are rendered with use of function
+*Serializers is a structure for such models to return data as JSON format
+In serializers are like when we create form,and for a model there should be a serializers
+
+#In a POST Request:
+When we recieve data from the request, We should confirm format of the data matches the serializers
+
+*AUTHETICATION
+where we can allow a set of permissions for different types of users
+IsAutheticated - can only be used with a API token key 
+
+*Mixins are containers or functionality that we can include in our classes with specific sort of function
+Basic function Create,Select,Update & Delete are in Mixins
