@@ -1,0 +1,12 @@
+Package             Version
+------------------- -------
+asgiref             3.8.1
+dj-rest-auth        6.0.0
+Django              5.1
+django-filter       24.3
+djangorestframework 3.15.2
+Markdown            3.7
+pip                 24.0
+six                 1.16.0
+sqlparse            0.5.1
+tzdata              2024.1
