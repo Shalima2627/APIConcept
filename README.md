@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple APIConcept with Django Rest Framework
 
 ## Overview
@@ -42,5 +43,4 @@ This project is a simple API built using Django Rest Framework. It provides a ba
 5. **Run the Development Server**
 
     python manage.py runserver
-
 
